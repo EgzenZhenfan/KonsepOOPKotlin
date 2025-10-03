@@ -22,6 +22,6 @@ class LaptopB : Computer{
 }
 
 fun main(){
-    val myLaptop = LaptopB("Asus Think Pad", "Asus")
+    val myLaptop = LaptopB("Asus ROG", "Asus")
     println(myLaptop.info())
 }

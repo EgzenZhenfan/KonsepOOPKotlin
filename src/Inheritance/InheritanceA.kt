@@ -15,6 +15,6 @@ class Laptop(name: String,
     }
 }
 fun main(){
-    val myLaptop = Laptop("Acer Aspire 4738", "Acer", 2.5)
+    val myLaptop = Laptop("Acer Predator Helios Neo 16", "Acer", 2.5)
     println(myLaptop.info())
 }
